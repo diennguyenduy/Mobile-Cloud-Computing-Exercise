@@ -8,6 +8,14 @@
 
 ### Cách chạy ứng dụng
 
+- Bước 1: Clone dự án về máy.
+
+- Bước 2: Mở dự án bằng Android Studio và đảm bảo rằng đã có thiết bị di động kết nối với máy hoặc sử dụng thiết bị di động ảo do AD hỗ trợ.
+
+- Bước 3: Khởi động thiết bị di động và đợi tới khi dự án kết nối với thiết bị.
+
+- Bước 4: Click chuột phải vào file `main.dart` trong folder `\lib` rồi chạy `Run`.
+
 ### Thông tin sinh viên
 
 - Họ và tên: Nguyễn Duy Diễn.
