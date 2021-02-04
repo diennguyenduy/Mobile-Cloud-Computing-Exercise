@@ -21,3 +21,14 @@
 - Họ và tên: Nguyễn Duy Diễn.
 
 - Trường: Đại học Công Nghệ, Đại học Quốc gia Hà Nội.
+
+### Ảnh chạy chương trình
+
+- Màn hình khi mới vào ứng dụng
+<img src="Images/Sceen.JPG" alt="My cool logo"/>
+
+- Màn hình khi nhấn vào ô nhập số
+<img src="Images/Sceen 2.JPG" alt="My cool logo"/>
+
+- Màn hình sau khi thực hiện phép tính
+<img src="Images/Output.JPG" alt="My cool logo"/>
